@@ -36,7 +36,7 @@ step 4 - npx react-native run-ios
 * SlidesHow
 * Theme Dark, Light
 
-<img src="miniatura.png" />
+<img src="miniatura1.png" />
 
 # Video demostración:
 [Youtube](https://www.youtube.com/watch?v=Bgb82cCue1g)
