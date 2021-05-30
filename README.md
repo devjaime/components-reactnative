@@ -39,7 +39,7 @@ step 4 - npx react-native run-ios
 <img src="miniatura1.png" />
 
 # Video demostración:
-[Youtube](https://www.youtube.com/watch?v=Bgb82cCue1g)
+[Youtube](https://www.youtube.com/watch?v=SRdmwW7EtQk)
 
 
 
